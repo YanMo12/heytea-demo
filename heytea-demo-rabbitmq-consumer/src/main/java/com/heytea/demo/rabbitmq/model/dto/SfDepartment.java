@@ -87,4 +87,9 @@ public class SfDepartment {
 	 * SF对应实体：cust_group4    字段：cust_HRBP
 	 */
 	private String custHrbp;
+	
+	/**
+     	* 门店编码
+        */
+        private String storeCode;
 }
